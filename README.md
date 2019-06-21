@@ -1,4 +1,4 @@
-# SignalTheory (Teoria Syngalow) 
+# Signal Theory (Teoria Syngalow) in MATLab
 
   1. Wprowadzenie do zaawansowanych funkcji systemu Matlab i Signal Processing Toolbox
   2. Numeryczna realizacja szeregów Fouriera – analiza zjawiska Gibbsa
